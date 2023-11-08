@@ -173,7 +173,7 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/yo.jpeg) no-repeat center top;
+	background: url(../img/pp.jpeg) no-repeat center top;
 	background-color: #7bc3d1;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -508,7 +508,6 @@ ol.type li a:hover {
 .timeline .timeline-body>p, .timeline .timeline-body>ul {
 	margin-bottom: 0;
 }
-/* Contact Section */
 #contact {
 	padding: 100px 0 40px 0;
 	color: #121d1f;
